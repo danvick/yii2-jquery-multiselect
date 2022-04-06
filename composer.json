@@ -17,7 +17,7 @@
     "prefer-stable": true,
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/jquery-multiselect": "*"
+        "npm-asset/nobleclem--jquery-multiselect": "*"
     }
     ,
     "require-dev": {
