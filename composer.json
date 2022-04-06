@@ -1,0 +1,33 @@
+{
+    "name": "danvick/yii2-jquery-multiselect",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "danvick\\multiselect\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danvick Miller",
+            "email": "danvickmiller@live.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/jquery-multiselect": "*",
+        "yiisoft/yii-jquery": "3.0.x-dev"
+    }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
