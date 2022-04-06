@@ -8,7 +8,7 @@ use yii\web\JqueryAsset;
 
 class JqueryMultiSelectAsset extends AssetBundle
 {
-    public $sourcePath = '@npm/jquery-multiselect';
+    public $sourcePath = '@npm/nobleclem--jquery-multiselect';
 
     public $js = [
         'jquery.multiselect.js'
