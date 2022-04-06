@@ -17,8 +17,7 @@
     "prefer-stable": true,
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/jquery-multiselect": "*",
-        "yiisoft/yii-jquery": "3.0.x-dev"
+        "bower-asset/jquery-multiselect": "*"
     }
     ,
     "require-dev": {
